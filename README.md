@@ -1,4 +1,4 @@
 # yandex-algorithms-trainings-3.0
-Yandex Algorithms Trainings Division #2
+Yandex Algorithms Trainings Division B
 
 https://yandex.ru/yaintern/algorithm-training
